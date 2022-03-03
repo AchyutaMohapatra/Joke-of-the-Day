@@ -21,4 +21,4 @@ joke-of-the-day
 MIT Licensed.
 
 ## Author 
-Rohan Mohapatra
+Achyuta Mohapatra
